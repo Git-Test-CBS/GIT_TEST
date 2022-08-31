@@ -1,1 +1,2 @@
-console.log("Hello from script2.js")
+console.log("Hello from script2.jsgit ")
+alert("Changes for VSCode")
